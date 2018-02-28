@@ -1,0 +1,924 @@
+﻿#-------------------------------
+[PICHU-1]
+FormName=Spiky-Eared
+#-------------------------------
+[UNOWN-1]
+FormName=Bear
+BattlerEnemyY=28
+#-------------------------------
+[UNOWN-2]
+FormName=Chase
+BattlerEnemyY=28
+#-------------------------------
+[UNOWN-3]
+FormName=Direct
+BattlerEnemyY=28
+#-------------------------------
+[UNOWN-4]
+FormName=Engage
+BattlerEnemyY=29
+#-------------------------------
+[UNOWN-5]
+FormName=Find
+BattlerEnemyY=29
+#-------------------------------
+[UNOWN-6]
+FormName=Give
+BattlerEnemyY=26
+#-------------------------------
+[UNOWN-7]
+FormName=Help
+BattlerEnemyY=28
+#-------------------------------
+[UNOWN-8]
+FormName=Increase
+BattlerEnemyY=28
+#-------------------------------
+[UNOWN-9]
+FormName=Join
+BattlerEnemyY=29
+#-------------------------------
+[UNOWN-10]
+FormName=Keep
+BattlerEnemyY=29
+#-------------------------------
+[UNOWN-11]
+FormName=Laugh
+BattlerEnemyY=31
+#-------------------------------
+[UNOWN-12]
+FormName=Make
+BattlerEnemyY=31
+#-------------------------------
+[UNOWN-13]
+FormName=Nuzzle
+BattlerEnemyY=32
+#-------------------------------
+[UNOWN-14]
+FormName=Observe
+BattlerEnemyY=28
+#-------------------------------
+[UNOWN-15]
+FormName=Perform
+BattlerEnemyY=31
+#-------------------------------
+[UNOWN-16]
+FormName=Quicken
+BattlerEnemyY=33
+#-------------------------------
+[UNOWN-17]
+FormName=Reassure
+BattlerEnemyY=31
+#-------------------------------
+[UNOWN-18]
+FormName=Search
+BattlerEnemyY=24
+#-------------------------------
+[UNOWN-19]
+FormName=Tell
+BattlerEnemyY=30
+#-------------------------------
+[UNOWN-20]
+FormName=Undo
+BattlerEnemyY=30
+#-------------------------------
+[UNOWN-21]
+FormName=Vanish
+BattlerEnemyY=30
+#-------------------------------
+[UNOWN-22]
+FormName=Want
+BattlerEnemyY=31
+#-------------------------------
+[UNOWN-23]
+FormName=XXXXX
+BattlerEnemyY=33
+#-------------------------------
+[UNOWN-24]
+FormName=Yield
+BattlerEnemyY=29
+#-------------------------------
+[UNOWN-25]
+FormName=Zoom
+BattlerEnemyY=28
+#-------------------------------
+[UNOWN-26]
+FormName=?????
+BattlerEnemyY=25
+#-------------------------------
+[UNOWN-27]
+FormName=!!!!!
+#-------------------------------
+[CASTFORM-1]
+FormName=Sunny Form
+Type1=FIRE
+BattlerEnemyY=26
+#-------------------------------
+[CASTFORM-2]
+FormName=Rainy Form
+Type1=WATER
+BattlerEnemyY=27
+#-------------------------------
+[CASTFORM-3]
+FormName=Snowy Form
+Type1=ICE
+BattlerEnemyY=28
+#-------------------------------
+[DEOXYS-1]
+FormName=Attack Forme
+BaseStats=50,180,20,150,180,20
+EffortPoints=0,2,0,0,1,0
+Moves=1,LEER,1,WRAP,9,NIGHTSHADE,17,TELEPORT,25,TAUNT,33,PURSUIT,41,PSYCHIC,49,SUPERPOWER,57,PSYCHOSHIFT,65,ZENHEADBUTT,73,COSMICPOWER,81,ZAPCANNON,89,PSYCHOBOOST,97,HYPERBEAM
+BattlerEnemyY=6
+#-------------------------------
+[DEOXYS-2]
+FormName=Defense Forme
+BaseStats=50,70,160,90,70,160
+EffortPoints=0,0,2,0,0,1
+Moves=1,LEER,1,WRAP,9,NIGHTSHADE,17,TELEPORT,25,KNOCKOFF,33,SPIKES,41,PSYCHIC,49,SNATCH,57,PSYCHOSHIFT,65,ZENHEADBUTT,73,IRONDEFENSE,73,AMNESIA,81,RECOVER,89,PSYCHOBOOST,97,COUNTER,97,MIRRORCOAT
+#-------------------------------
+[DEOXYS-3]
+FormName=Speed Forme
+BaseStats=50,95,90,180,95,90
+EffortPoints=0,0,0,3,0,0
+Moves=1,LEER,1,WRAP,9,NIGHTSHADE,17,DOUBLETEAM,25,KNOCKOFF,33,PURSUIT,41,PSYCHIC,49,SWIFT,57,PSYCHOSHIFT,65,ZENHEADBUTT,73,AGILITY,81,RECOVER,89,PSYCHOBOOST,97,EXTREMESPEED
+BattlerEnemyY=6
+#-------------------------------
+[BURMY-1]
+FormName=Sandy Cloak
+BattlerEnemyY=24
+#-------------------------------
+[BURMY-2]
+FormName=Trash Cloak
+BattlerEnemyY=24
+#-------------------------------
+[WORMADAM-1]
+FormName=Sandy Cloak
+Type1=BUG
+Type2=GROUND
+BaseStats=60,79,105,36,59,85
+EffortPoints=0,0,2,0,0,0
+Moves=1,TACKLE,10,PROTECT,15,BUGBITE,20,HIDDENPOWER,23,CONFUSION,26,ROCKBLAST,29,HARDEN,32,PSYBEAM,35,CAPTIVATE,38,FLAIL,41,ATTRACT,44,PSYCHIC,47,FISSURE
+#-------------------------------
+[WORMADAM-2]
+FormName=Trash Cloak
+Type1=BUG
+Type2=STEEL
+BaseStats=60,69,95,36,69,95
+EffortPoints=0,0,1,0,0,1
+Moves=1,TACKLE,10,PROTECT,15,BUGBITE,20,HIDDENPOWER,23,CONFUSION,26,MIRRORSHOT,29,METALSOUND,32,PSYBEAM,35,CAPTIVATE,38,FLAIL,41,ATTRACT,44,PSYCHIC,47,IRONHEAD
+#-------------------------------
+[CHERRIM-1]
+FormName=Sunshine Form
+BattlerEnemyY=22
+#-------------------------------
+[SHELLOS-1]
+FormName=East Sea
+#-------------------------------
+[GASTRODON-1]
+FormName=East Sea
+#-------------------------------
+[ROTOM-1]
+FormName=Heat Rotom
+Type1=ELECTRIC
+Type2=FIRE
+#-------------------------------
+[ROTOM-2]
+FormName=Wash Rotom
+Type1=ELECTRIC
+Type2=WATER
+BattlerEnemyY=14
+BattlerAltitude=9
+#-------------------------------
+[ROTOM-3]
+FormName=Frost Rotom
+Type1=ELECTRIC
+Type2=ICE
+BattlerEnemyY=11
+BattlerAltitude=11
+#-------------------------------
+[ROTOM-4]
+FormName=Fan Rotom
+Type1=ELECTRIC
+Type2=FLYING
+BattlerEnemyY=17
+BattlerAltitude=9
+#-------------------------------
+[ROTOM-5]
+FormName=Mow Rotom
+Type1=ELECTRIC
+Type2=GRASS
+BattlerEnemyY=11
+BattlerAltitude=6
+#-------------------------------
+[GIRATINA-1]
+FormName=Origin Forme
+BaseStats=150,120,100,90,120,100
+Abilities=LEVITATE
+HiddenAbility=TELEPATHY
+Height=6.9
+Weight=650.0
+Shape=2
+BattlerEnemyY=4
+BattlerAltitude=10
+#-------------------------------
+[SHAYMIN-1]
+FormName=Sky Forme
+Type1=GRASS
+Type2=FLYING
+BaseStats=100,103,75,127,120,75
+EffortPoints=0,0,0,3,0,0
+Abilities=SERENEGRACE
+Moves=1,GROWTH,10,MAGICALLEAF,19,LEECHSEED,28,QUICKATTACK,37,SWEETSCENT,46,NATURALGIFT,55,WORRYSEED,64,AIRSLASH,73,ENERGYBALL,82,SWEETKISS,91,LEAFSTORM,100,SEEDFLARE
+Height=0.4
+Weight=5.2
+BattlerEnemyY=17
+#-------------------------------
+[ARCEUS-1]
+FormName=Fighting Type
+Type1=FIGHTING
+#-------------------------------
+[ARCEUS-2]
+FormName=Flying Type
+Type1=FLYING
+#-------------------------------
+[ARCEUS-3]
+FormName=Poison Type
+Type1=POISON
+#-------------------------------
+[ARCEUS-4]
+FormName=Ground Type
+Type1=GROUND
+#-------------------------------
+[ARCEUS-5]
+FormName=Rock Type
+Type1=ROCK
+#-------------------------------
+[ARCEUS-6]
+FormName=Bug Type
+Type1=BUG
+#-------------------------------
+[ARCEUS-7]
+FormName=Ghost Type
+Type1=GHOST
+#-------------------------------
+[ARCEUS-8]
+FormName=Steel Type
+Type1=STEEL
+#-------------------------------
+[ARCEUS-9]
+FormName=Unknown Type
+Type1=QMARKS
+#-------------------------------
+[ARCEUS-10]
+FormName=Fire Type
+Type1=FIRE
+#-------------------------------
+[ARCEUS-11]
+FormName=Water Type
+Type1=WATER
+#-------------------------------
+[ARCEUS-12]
+FormName=Grass Type
+Type1=GRASS
+#-------------------------------
+[ARCEUS-13]
+FormName=Electric Type
+Type1=ELECTRIC
+#-------------------------------
+[ARCEUS-14]
+FormName=Psychic Type
+Type1=PSYCHIC
+#-------------------------------
+[ARCEUS-15]
+FormName=Ice Type
+Type1=ICE
+#-------------------------------
+[ARCEUS-16]
+FormName=Dragon Type
+Type1=DRAGON
+#-------------------------------
+[ARCEUS-17]
+FormName=Dark Type
+Type1=DARK
+#-------------------------------
+[ARCEUS-18]
+FormName=Fairy Type
+Type1=FAIRY
+#-------------------------------
+[ARCEUS-19]
+FormName=Feral Type
+Type1=FERAL
+#-------------------------------
+[BASCULIN-1]
+FormName=Blue-Striped
+Abilities=ROCKHEAD,ADAPTABILITY
+HiddenAbility=MOLDBREAKER
+WildItemUncommon=DEEPSEASCALE
+#-------------------------------
+[DARMANITAN-1]
+FormName=Zen Mode
+Type1=FIRE
+Type2=PSYCHIC
+BaseStats=105,30,105,55,140,105
+EffortPoints=0,0,0,0,2,0
+BattlerEnemyY=33
+#-------------------------------
+[DEERLING-1]
+FormName=Summer Form
+#-------------------------------
+[DEERLING-2]
+FormName=Autumn Form
+#-------------------------------
+[DEERLING-3]
+FormName=Winter Form
+#-------------------------------
+[SAWSBUCK-1]
+FormName=Summer Form
+#-------------------------------
+[SAWSBUCK-2]
+FormName=Autumn Form
+#-------------------------------
+[SAWSBUCK-3]
+FormName=Winter Form
+#-------------------------------
+[TORNADUS-1]
+FormName=Therian Forme
+BaseStats=79,100,80,121,110,90
+EffortPoints=0,0,0,3,0,0
+Abilities=REGENERATOR
+HiddenAbility=DEFIANT
+Height=1.4
+Shape=9
+BattlerEnemyY=12
+BattlerAltitude=0
+#-------------------------------
+[THUNDURUS-1]
+FormName=Therian Forme
+BaseStats=79,105,70,101,145,80
+EffortPoints=0,0,0,0,3,0
+Abilities=VOLTABSORB
+HiddenAbility=DEFIANT
+Height=3.0
+Shape=6
+BattlerAltitude=7
+#-------------------------------
+[LANDORUS-1]
+FormName=Therian Forme
+BaseStats=89,145,90,71,105,80
+EffortPoints=0,3,0,0,0,0
+Abilities=INTIMIDATE
+HiddenAbility=SHEERFORCE
+Height=1.3
+Shape=8
+BattlerEnemyY=16
+BattlerAltitude=0
+#-------------------------------
+[KYUREM-1]
+FormName=White Kyurem
+BaseStats=125,120,90,95,170,100
+EffortPoints=0,0,0,0,3,0
+Abilities=TURBOBLAZE
+Moves=1,ICYWIND,1,DRAGONRAGE,8,IMPRISON,15,ANCIENTPOWER,22,ICEBEAM,29,DRAGONBREATH,36,SLASH,43,FUSIONFLARE,50,ICEBURN,57,DRAGONPULSE,64,IMPRISON,71,ENDEAVOR,78,BLIZZARD,85,OUTRAGE,92,HYPERVOICE
+Height=3.6
+BattlerEnemyY=10
+#-------------------------------
+[KYUREM-2]
+FormName=Black Kyurem
+BaseStats=125,170,100,95,120,90
+EffortPoints=0,3,0,0,0,0
+Abilities=TERAVOLT
+Moves=1,ICYWIND,1,DRAGONRAGE,8,IMPRISON,15,ANCIENTPOWER,22,ICEBEAM,29,DRAGONBREATH,36,SLASH,43,FUSIONBOLT,50,FREEZESHOCK,57,DRAGONPULSE,64,IMPRISON,71,ENDEAVOR,78,BLIZZARD,85,OUTRAGE,92,HYPERVOICE
+Height=3.3
+BattlerEnemyY=7
+#-------------------------------
+[KELDEO-1]
+FormName=Resolute Form
+BattlerEnemyY=22
+#-------------------------------
+[MELOETTA-1]
+FormName=Pirouette Forme
+Type1=NORMAL
+Type2=FIGHTING
+BaseStats=100,128,90,128,77,77
+EffortPoints=0,1,1,1,0,0
+BattlerEnemyY=20
+#-------------------------------
+[GENESECT-1]
+FormName=Shock Drive
+#-------------------------------
+[GENESECT-2]
+FormName=Burn Drive
+#-------------------------------
+[GENESECT-3]
+FormName=Chill Drive
+#-------------------------------
+[GENESECT-4]
+FormName=Douse Drive
+#-------------------------------
+[SCATTERBUG-1]
+#-------------------------------
+[SCATTERBUG-2]
+#-------------------------------
+[SCATTERBUG-3]
+#-------------------------------
+[SCATTERBUG-4]
+#-------------------------------
+[SCATTERBUG-5]
+#-------------------------------
+[SCATTERBUG-6]
+#-------------------------------
+[SCATTERBUG-7]
+#-------------------------------
+[SCATTERBUG-8]
+#-------------------------------
+[SCATTERBUG-9]
+#-------------------------------
+[SCATTERBUG-10]
+#-------------------------------
+[SCATTERBUG-11]
+#-------------------------------
+[SCATTERBUG-12]
+#-------------------------------
+[SCATTERBUG-13]
+#-------------------------------
+[SCATTERBUG-14]
+#-------------------------------
+[SCATTERBUG-15]
+#-------------------------------
+[SCATTERBUG-16]
+#-------------------------------
+[SCATTERBUG-17]
+#-------------------------------
+[SCATTERBUG-18]
+#-------------------------------
+[SCATTERBUG-19]
+#-------------------------------
+[SPEWPA-1]
+#-------------------------------
+[SPEWPA-2]
+#-------------------------------
+[SPEWPA-3]
+#-------------------------------
+[SPEWPA-4]
+#-------------------------------
+[SPEWPA-5]
+#-------------------------------
+[SPEWPA-6]
+#-------------------------------
+[SPEWPA-7]
+#-------------------------------
+[SPEWPA-8]
+#-------------------------------
+[SPEWPA-9]
+#-------------------------------
+[SPEWPA-10]
+#-------------------------------
+[SPEWPA-11]
+#-------------------------------
+[SPEWPA-12]
+#-------------------------------
+[SPEWPA-13]
+#-------------------------------
+[SPEWPA-14]
+#-------------------------------
+[SPEWPA-15]
+#-------------------------------
+[SPEWPA-16]
+#-------------------------------
+[SPEWPA-17]
+#-------------------------------
+[SPEWPA-18]
+#-------------------------------
+[SPEWPA-19]
+#-------------------------------
+[VIVILLON-1]
+FormName=Polar Pattern
+#-------------------------------
+[VIVILLON-2]
+FormName=Tundra Pattern
+#-------------------------------
+[VIVILLON-3]
+FormName=Continental Pattern
+#-------------------------------
+[VIVILLON-4]
+FormName=Garden Pattern
+#-------------------------------
+[VIVILLON-5]
+FormName=Elegant Pattern
+#-------------------------------
+[VIVILLON-6]
+FormName=Icy Snow Pattern
+#-------------------------------
+[VIVILLON-7]
+FormName=Modern Pattern
+#-------------------------------
+[VIVILLON-8]
+FormName=Marine Pattern
+#-------------------------------
+[VIVILLON-9]
+FormName=Archipelago Pattern
+#-------------------------------
+[VIVILLON-10]
+FormName=High Plains Pattern
+#-------------------------------
+[VIVILLON-11]
+FormName=Sandstorm Pattern
+#-------------------------------
+[VIVILLON-12]
+FormName=River Pattern
+#-------------------------------
+[VIVILLON-13]
+FormName=Savanna Pattern
+#-------------------------------
+[VIVILLON-14]
+FormName=Sun Pattern
+#-------------------------------
+[VIVILLON-15]
+FormName=Ocean Pattern
+#-------------------------------
+[VIVILLON-16]
+FormName=Jungle Pattern
+#-------------------------------
+[VIVILLON-17]
+FormName=Monsoon Pattern
+#-------------------------------
+[VIVILLON-18]
+FormName=Poké Ball Pattern
+#-------------------------------
+[VIVILLON-19]
+FormName=Fancy Pattern
+#-------------------------------
+[BANETTE-1]
+FormName=Mega Banette
+BaseStats=64,165,75,75,93,83
+Abilities=PRANKSTER
+Height=1.2
+Weight=13.0
+MegaStone=BANETTITE
+#-------------------------------
+[VENUSAUR-1]
+FormName=Mega Venusaur
+BaseStats=80,100,123,80,122,120
+Abilities=THICKFAT
+Height=2.4
+Weight=155.5
+MegaStone=VENUSAURITE
+#-------------------------------
+[CHARIZARD-1]
+FormName=Mega Charizard X
+Type2=DRAGON
+BaseStats=78,130,111,100,130,85
+Abilities=TOUGHCLAWS
+Weight=110.5
+MegaStone=CHARIZARDITEX
+#-------------------------------
+[CHARIZARD-3]
+FormName=Mega Charizard Y
+BaseStats=78,130,111,100,130,85
+Abilities=DROUGHT
+Weight=100.5
+MegaStone=CHARIZARDITEY
+#-------------------------------
+[BLASTOISE-1]
+FormName=Mega Blastoise
+BaseStats=79,103,120,78,135,115
+Abilities=MEGALAUNCHER
+Weight=101.1
+MegaStone=BLASTOISINITE
+#-------------------------------
+[ALAKAZAM-1]
+FormName=Mega ALAKAZAM
+BaseStats=55,50,65,150,175,95
+Abilities=TRACE
+Height=1.2
+MegaStone=ALAKAZITE
+#-------------------------------
+[GENGAR-1]
+FormName=Mega Gengar
+BaseStats=60,65,80,130,170,95
+Abilities=SHADOWTAG
+Height=1.4
+MegaStone=GENGARITE
+#-------------------------------
+[KANGASKHAN-1]
+FormName=Mega Kangaskhan
+BaseStats=105,125,100,100,60,100
+Abilities=PARENTALBOND
+Weight=100.0
+MegaStone=KANGASKHANITE
+#-------------------------------
+[PINSIR-1]
+FormName=Mega Pinsir
+BaseStats=65,155,120,105,65,90
+Abilities=AERILATE
+Height=1.7
+Weight=59.0
+MegaStone=PINSIRITE
+#-------------------------------
+[GYARADOS-1]
+FormName=Mega Gyarados
+Type2=FERAL
+BaseStats=95,155,109,81,70,130
+Abilities=MOLDBREAKER
+Weight=305.0
+MegaStone=GYARADOSITE
+#-------------------------------
+[AERODACTYL-1]
+FormName=Mega Aerodactyl
+Type2=DARK
+BaseStats=80,135,85,150,70,95
+Abilities=TOUGHCLAWS
+Height=2.1
+Weight=79.0
+MegaStone=AERODACTYLITE
+#-------------------------------
+[MEWTWO-1]
+FormName=Mega Mewtwo X
+Type2=FIGHTING
+BaseStats=106,190,100,130,154,100
+Abilities=STEADFAST
+Height=2.3
+Weight=127.0
+MegaStone=MEWTWONITEX
+#-------------------------------
+[MEWTWO-3]
+FormName=Mega Mewtwo Y
+BaseStats=106,150,70,140,194,120
+Abilities=INSOMNIA
+Height=1.5
+Weight=33.0
+MegaStone=MEWTWONITEY
+#-------------------------------
+[AMPHAROS-1]
+FormName=Mega Ampharos
+Type2=DRAGON
+BaseStats=90,95,105,45,165,110
+Abilities=MOLDBREAKER
+MegaStone=AMPHAROSITE
+#-------------------------------
+[SCIZOR-1]
+FormName=Mega Scizor
+BaseStats=70,150,140,75,65,100
+Abilities=TECHNICIAN
+Height=2.0
+Weight=125.0
+MegaStone=SCIZORITE
+#-------------------------------
+[HERACROSS-1]
+FormName=Mega Heracross
+BaseStats=80,185,115,75,40,105
+Abilities=SKILLLINK
+Height=1.7
+Weight=62.5
+MegaStone=HERACRONITE
+#-------------------------------
+[HOUNDOOM-1]
+FormName=Mega Houndoom
+BaseStats=75,90,90,115,140,90
+Abilities=SOLARPOWER
+Height=1.9
+Weight=49.5
+MegaStone=HOUNDOOMINITE
+#-------------------------------
+[TYRANITAR-1]
+FormName=Mega Tyranitar
+BaseStats=100,164,150,71,95,120
+Abilities=SANDSTREAM
+Height=2.5
+Weight=255.0
+MegaStone=TYRANITARITE
+#-------------------------------
+[BLAZIKEN-1]
+FormName=Mega Blaziken
+BaseStats=80,160,80,100,130,80
+Abilities=SPEEDBOOST
+MegaStone=BLAZIKENITE
+#-------------------------------
+[GARDEVOIR-1]
+FormName=Mega Gardevoir
+BaseStats=68,85,65,100,165,135
+Abilities=PIXILATE
+MegaStone=GARDEVOIRITE
+#-------------------------------
+[MAWILE-1]
+FormName=Mega Mawile
+BaseStats=50,105,125,50,55,95
+Abilities=HUGEPOWER
+Height=1.0
+Weight=23.5
+MegaStone=MAWILITE
+#-------------------------------
+[AGGRON-1]
+FormName=Mega Aggron
+Type2=STEEL
+BaseStats=70,140,230,50,60,80
+Abilities=FILTER
+Height=2.2
+Weight=395.0
+MegaStone=AGGRONITE
+#-------------------------------
+[MEDICHAM-1]
+FormName=Mega Medicham
+BaseStats=60,100,85,100,80,85
+Abilities=PUREPOWER
+MegaStone=MEDICHAMITE
+#-------------------------------
+[MANECTRIC-1]
+FormName=Mega Manectric
+BaseStats=70,75,80,135,135,80
+Abilities=INTIMIDATE
+Height=1.8
+Weight=44.0
+MegaStone=MANECTITE
+#-------------------------------
+[ABSOL-1]
+FormName=Mega Absol
+BaseStats=65,150,60,115,115,60
+Abilities=MAGICBOUNCE
+Weight=49.0
+MegaStone=ABSOLITE
+#-------------------------------
+[GARCHOMP-1]
+FormName=Mega Garchomp
+BaseStats=108,170,115,92,120,95
+Abilities=SANDFORCE
+MegaStone=GARCHOMPITE
+#-------------------------------
+[LUCARIO-1]
+FormName=Mega Lucario
+Type1=FERAL
+BaseStats=70,145,88,112,140,70
+Abilities=ADAPTABILITY
+Height=1.3
+Weight=57.5
+MegaStone=LUCARIONITE
+#-------------------------------
+[ABOMASNOW-1]
+FormName=Mega Abomasnow
+BaseStats=90,132,105,30,132,105
+Abilities=SNOWWARNING
+Height=2.7
+Weight=185.0
+MegaStone=ABOMASITE
+#-------------------------------
+[BEEDRILL-1]
+FormName=Mega Beedrill
+BaseStats=65,150,40,145,15,80
+Abilities=ADAPTABILITY
+Height=1.4
+Weight=40.5
+MegaStone=BEEDRILLITE
+#-------------------------------
+[PIDGEOT-1]
+FormName=Mega Pidgeot
+BaseStats=83,80,80,121,135,80
+Abilities=NOGUARD
+Height=2.2
+Weight=50.5
+MegaStone=PIDGEOTITE
+#-------------------------------
+[SLOWBRO-1]
+FormName=Mega Slowbro
+BaseStats=95,75,180,30,130,80
+Abilities=SHELLARMOR
+Height=2.0
+Weight=120.0
+MegaStone=SLOWBRONITE
+#-------------------------------
+[STEELIX-1]
+FormName=Mega Steelix
+BaseStats=75,125,230,30,55,95
+Abilities=SANDFORCE
+Height=10.5
+Weight=740.0
+MegaStone=STEELIXITE
+#-------------------------------
+[SCEPTILE-1]
+FormName=Mega Sceptile
+Type2=DRAGON
+BaseStats=70,110,75,145,145,85
+Abilities=LIGHTNINGROD
+Height=1.9
+Weight=55.2
+MegaStone=SCEPTILITE
+#-------------------------------
+[SWAMPERT-1]
+FormName=Mega Swampert
+BaseStats=100,150,110,70,95,110
+Abilities=SWIFTSWIM
+Height=1.9
+Weight=102.0
+MegaStone=SWAMPERTITE
+#-------------------------------
+[SABLEYE-1]
+FormName=Mega Sableye
+BaseStats=50,85,125,20,85,115
+Abilities=MAGICBOUNCE
+Weight=161.0
+MegaStone=SABLENITE
+#-------------------------------
+[SHARPEDO-1]
+FormName=Mega Sharpedo
+BaseStats=70,140,70,105,110,65
+Abilities=STRONGJAW
+Height=2.5
+Weight=130.3
+MegaStone=SHARPEDONITE
+#-------------------------------
+[CAMERUPT-1]
+FormName=Mega Camerupt
+BaseStats=70,120,100,20,145,105
+Abilities=SHEERFORCE
+Height=2.5
+Weight=320.5
+MegaStone=CAMERUPTITE
+#-------------------------------
+[ALTARIA-1]
+FormName=Mega Altaria
+Type2=FAIRY
+BaseStats=75,110,110,80,110,105
+Abilities=PIXILATE
+Height=1.5
+MegaStone=ALTARIANITE
+#-------------------------------
+[GLALIE-1]
+FormName=Mega Glalie
+Type2=FERAL
+BaseStats=80,120,80,100,120,80
+Abilities=REFRIGERATE
+Height=2.1
+Weight=350.2
+MegaStone=GLALITE
+#-------------------------------
+[SALAMENCE-1]
+FormName=Mega Salamence 
+BaseStats=95,145,130,120,120,90
+Abilities=AERILATE
+Height=1.8
+Weight=112.6
+MegaStone=SALAMENCITE
+#-------------------------------
+[METAGROSS-1]
+FormName=Mega Metagross  
+BaseStats=80,145,150,110,105,110
+Abilities=TOUGHCLAWS
+Height=2.5
+Weight=942.9
+MegaStone=METAGROSSITE
+#-------------------------------
+[LATIAS-1]
+FormName=Mega Latias  
+BaseStats=80,100,120,110,140,150
+Height=1.8
+Weight=52.0
+MegaStone=LATIASITE
+#-------------------------------
+[LATIOS-1]
+FormName=Mega Latios  
+BaseStats=80,130,100,110,160,120
+Height=2.3
+Weight=70.0
+MegaStone=LATIOSITE
+#-------------------------------
+[RAYQUAZA-1]
+FormName=Mega Rayquaza   
+BaseStats=105,180,100,115,180,100
+Abilities=DELTASTREAM
+Height=10.8
+Weight=392.0
+MegaMove=DRAGONASCENT
+MegaMessage=1
+#-------------------------------
+[LOPUNNY-1]
+FormName=Mega Lopunny   
+Type2=FIGHTING
+BaseStats=65,136,94,135,54,96
+Abilities=SCRAPPY
+Height=1.3
+Weight=28.3
+MegaStone=LOPUNNITE
+#-------------------------------
+[GALLADE-1]
+FormName=Mega Gallade   
+BaseStats=68,165,95,110,65,115
+Abilities=INNERFOCUS
+Weight=56.4
+MegaStone=GALLADITE
+#-------------------------------
+[AUDINO-1]
+FormName=Mega Audino
+Type2=FAIRY
+BaseStats=103,60,126,50,80,126
+Abilities=HEALER
+Height=1.5
+Weight=32.0
+MegaStone=AUDINITE
+#-------------------------------
+[DIANCIE-1]
+FormName=Mega Diancie
+BaseStats=50,160,110,110,160,110
+Abilities=MAGICBOUNCE
+Height=1.1
+Weight=27.8
+MegaStone=DIANCITE

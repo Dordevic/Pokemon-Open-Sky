@@ -1,0 +1,11 @@
+[1]
+Name=Test
+Stage1="Go do a thing at your house"
+Stage2="Do somethign else"
+Reward="$Trainer.money+=200"
+RewardDescription="A description 4"
+StageLocation1="nil"
+StageLocation2=nil
+QuestDescription="This is a really good quest.  This is also a really long description.  What, an even longer description?  How long will this go? This is a really good quest.  This is also a really long description.  What, an even longer description?  How long will this go? This is a really good quest.  This is also a really long description.  What, an even longer description?  How long will this go?"
+CompletedMessage="You completed this quest"
+FailedMessage="You failed this quest"

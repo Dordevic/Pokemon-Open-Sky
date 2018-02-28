@@ -1,0 +1,12 @@
+# Training Ground (79) - Mom's Lab (77)
+79,North,0,77,South,15
+# Dad's Ranch (32) - Mom's Lab (77)
+32,East,0,77,West,0
+# Route 1 (76) - Mom's Lab (77)
+76,North,30,77,South,0
+# Dad's Ranch (32) - Training Ground (79)
+32,South,45,79,North,0
+# Route 1 (76) - Training Ground (79)
+76,East,0,79,West,0
+# Route 1 (76) - Dad's Ranch (32)
+76,North,0,32,South,0

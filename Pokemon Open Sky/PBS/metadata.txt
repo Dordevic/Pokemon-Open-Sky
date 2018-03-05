@@ -29,10 +29,12 @@ MapPosition=0,13,12
 HealingSpot=2,8,8
 #-------------------------------
 [004]
+# LabForest
 MapPosition=0,13,12
 ShowArea=false
 #-------------------------------
 [005]
+# Home
 MapPosition=0,13,11
 Outdoor=true
 ShowArea=true

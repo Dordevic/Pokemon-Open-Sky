@@ -60,7 +60,7 @@ VENUSAUR,1,99
 VENUSAUR,1,99
 VENUSAUR,1,99
 #-------------------------------
-076 # Route 1
+076
 25,10,10
 Water
 BULBASAUR,1,99
@@ -121,7 +121,7 @@ BULBASAUR,5
 BULBASAUR,5
 BULBASAUR,5
 #-------------------------------
-079 # Training Ground
+079
 25,10,10
 Land
 CHANSEY,5

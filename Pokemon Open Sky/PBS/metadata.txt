@@ -29,29 +29,35 @@ MapPosition=0,13,12
 HealingSpot=2,8,8
 #-------------------------------
 [004]
-# LabForest
+# Dedalos Forest
 MapPosition=0,13,12
 ShowArea=false
 #-------------------------------
 [005]
-# Home
+# Karin Island
+DiveMap=7
 MapPosition=0,13,11
 Outdoor=true
 ShowArea=true
 #-------------------------------
 [006]
+# Virizion Den
 MapPosition=0,13,11
 #-------------------------------
 [007]
+# Underwater
 MapSize=2,11
 MapPosition=0,13,10
 Outdoor=true
 ShowArea=true
 #-------------------------------
 [008]
+# Cave entrance up
+DiveMap=9
 MapPosition=0,13,12
 #-------------------------------
 [009]
+# Cave entrance
 MapPosition=0,14,10
 HealingSpot=8,17,11
 #-------------------------------

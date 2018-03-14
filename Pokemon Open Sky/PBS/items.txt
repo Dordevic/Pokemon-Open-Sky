@@ -700,3 +700,8 @@
 703,COWARDICEGENE,Cowardice Gene,Cowardice Genes,2,19800,"A mysterious gene for Pokémon. It decreases the potential Sp.Atk stat of a single Pokémon.",1,0,0,
 704,NEGLIGENTGENE,Negligent Gene,Negligent Genes,2,19800,"A mysterious gene for Pokémon. It decreases the potential Sp.Def of a single Pokémon.",1,0,0,
 705,CLUMSYGENE,Clumsy Gene,Clumsy Genes,2,19800,"A mysterious gene for Pokémon. It decreases the potential Speed stat of a single Pokémon.",1,0,0,
+706,MANNAZKEY,Mannaz Key,Mannaz Keys,8,0,"A strange key, it sparkels from time to time with some kind of magic",2,0,6,
+707,FEHUKEY,Fehu Key,Fehu Keys,8,0,"A strange key, it sparkels from time to time with some kind of magic",2,0,6,
+708,KAUNAZKEY,Kaunaz Key,Kaunaz Keys,8,0,"A strange key, it sparkels from time to time with some kind of magic",2,0,6,
+709,DAGAZKEY,Dagaz Key,Dagaz Keys,8,0,"A strange key, it sparkels from time to time with some kind of magic",2,0,6,
+710,BERKANAZKEY,Berkana Key,Berkana Keys,8,0,"A strange key, it sparkels from time to time with some kind of magic",2,0,6,

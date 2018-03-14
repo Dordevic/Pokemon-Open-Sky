@@ -9,3 +9,14 @@ StageLocation2=nil
 QuestDescription="This is a really good quest.  This is also a really long description.  What, an even longer description?  How long will this go? This is a really good quest.  This is also a really long description.  What, an even longer description?  How long will this go? This is a really good quest.  This is also a really long description.  What, an even longer description?  How long will this go?"
 CompletedMessage="You completed this quest"
 FailedMessage="You failed this quest"
+[2]
+Name=Shiny Lopunny
+Stage1="Get cut"
+Stage2="Let's trap the Lopunny"
+Reward="Kernel.pbReceiveItem(:SOOTHEBELL)"
+RewardDescription="A nice item"
+StageLocation1="nil"
+StageLocation2="Dedalo's Forest"
+QuestDescription="There is a shiny Lopunny in the Dedalo's Forest let's try to catch it."
+CompletedMessage="You captured the male shiny Lopunny"
+FailedMessage="You failed this quest"

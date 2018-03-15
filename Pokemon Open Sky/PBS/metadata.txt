@@ -29,7 +29,8 @@ MapPosition=0,13,12
 HealingSpot=2,8,8
 #-------------------------------
 [004]
-# Dedalos Forest
+# Dedalo's Forest
+Bicycle=true
 MapPosition=0,13,12
 Outdoor=true
 ShowArea=true

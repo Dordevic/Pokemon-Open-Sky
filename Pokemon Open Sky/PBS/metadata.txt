@@ -53,6 +53,14 @@ MapPosition=0,13,10
 Outdoor=true
 ShowArea=true
 #-------------------------------
+[012]
+# Cave_Floor1
+DiveMap=16
+#-------------------------------
+[014]
+# Cave_Floor2
+DiveMap=16
+#-------------------------------
 [077]
 # Mom's Lab
 Bicycle=true

@@ -233,3 +233,4 @@
 233,NEUROFORCE,Neuroforce,"Increases the power of supereffective attacks."
 234,CRACKING,Cracking,"Powers up Rock-type moves in a pinch."
 235,WRATH,Wrath,"Powers up Feral-type moves in a pinch."
+236,ENLIGHTENED,Enligthened,"This pokemon also has Fairy as its typing"

@@ -53,6 +53,10 @@ MapPosition=0,13,10
 Outdoor=true
 ShowArea=true
 #-------------------------------
+[008]
+# Cave entrance up
+DiveMap=9
+#-------------------------------
 [012]
 # Cave_Floor1
 DiveMap=16

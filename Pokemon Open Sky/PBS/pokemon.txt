@@ -36107,8 +36107,3 @@ BattlerEnemyY=25
 BattlerAltitude=0
 Evolutions=
 Incense=
-
-
-
-
-

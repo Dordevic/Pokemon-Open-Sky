@@ -15,9 +15,7 @@ WildBattleBGM=Battle wild.mid
 #-------------------------------
 [002]
 # TestRoute
-MapSize=1,
 DiveMap=3
-MapPosition=0,13,12
 DarkMap=true
 Outdoor=true
 ShowArea=true
@@ -25,31 +23,25 @@ ShowArea=true
 [003]
 # Underwater
 BattleBack=IndoorB
-MapPosition=0,13,12
 HealingSpot=2,8,8
 #-------------------------------
 [004]
 # Dedalo's Forest
 Bicycle=true
-MapPosition=0,13,12
-Outdoor=true
+Outdoor=false
 ShowArea=true
 #-------------------------------
 [005]
 # Karin Island
 DiveMap=7
-MapPosition=0,13,11
 Outdoor=true
 ShowArea=true
 #-------------------------------
 [006]
 # Virizion Den
-MapPosition=0,13,11
 #-------------------------------
 [007]
 # Underwater
-MapSize=2,11
-MapPosition=0,13,10
 Outdoor=true
 ShowArea=true
 #-------------------------------
@@ -67,7 +59,9 @@ DiveMap=15
 #-------------------------------
 [077]
 # Mom's Lab
+Weather=Sunny,10
 Bicycle=true
+MapPosition=0,6,6
 Outdoor=true
 ShowArea=true
 #-------------------------------

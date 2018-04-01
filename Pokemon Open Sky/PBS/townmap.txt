@@ -1,8 +1,8 @@
 ﻿#-------------------------------
 [0]
-Name=Essen
+Name=North Map
 Filename=mapRegion0.png
-Point=13,12,"TestRoute",,002,10,10,
+Point=6,6,"Karin Island","Mom's Lab",077,019,017,
 #-------------------------------
 [1]
 Name=Tiall

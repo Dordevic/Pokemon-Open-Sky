@@ -678,3 +678,4 @@
 679,WATERDROPLET,Water Droplet,000,25,WATER,Special,100,35,0,00,0,abef,"The user trows a small water droplet against the target to inflict damage."
 680,FURBALL,Fur Ball,000,25,FERAL,Physical,100,35,0,00,0,abef,"The user throws a fur ball against target to inflict damage."
 681,PEBBLE,Pebble,000,25,ROCK,Physical,100,35,0,00,0,abef,"The user trows a small pebble against the target to inflict damage."
+682,INVISIBLEBOX,Barrier,02F,0,PSYCHIC,Status,0,20,0,10,0,d,"The user throws up a sturdy wall that sharply raises its Defense stat."

@@ -57,6 +57,9 @@ DiveMap=16
 # Cave_Floor2
 DiveMap=15
 #-------------------------------
+[017]
+# Thunder Mountain
+#-------------------------------
 [077]
 # Mom's Lab
 Weather=Sunny,10

@@ -1,12 +1,10 @@
 [1]
-Name=Test
-Stage1="Go do a thing at your house"
-Stage2="Do somethign else"
+Name=Quest View
+Stage1="Find more quest to add to the log"
 Reward="$Trainer.money+=200"
-RewardDescription="A description 4"
+RewardDescription="New Quest to explore"
 StageLocation1="nil"
-StageLocation2=nil
-QuestDescription="This is a really good quest.  This is also a really long description.  What, an even longer description?  How long will this go? This is a really good quest.  This is also a really long description.  What, an even longer description?  How long will this go? This is a really good quest.  This is also a really long description.  What, an even longer description?  How long will this go?"
+QuestDescription="Travel t the region and find quest to add to the log"
 CompletedMessage="You completed this quest"
 FailedMessage="You failed this quest"
 [2]

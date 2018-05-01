@@ -16,8 +16,8 @@ WildBattleBGM=Battle wild.mid
 [002]
 # TestRoute
 DiveMap=3
-Weather=Plague,100
-DarkMap=true
+Weather=AncestralAurora,100
+DarkMap=false
 Outdoor=true
 ShowArea=true
 #-------------------------------
@@ -60,11 +60,11 @@ DiveMap=15
 #-------------------------------
 [017]
 # Thunder Mountain
-Weather=Storm,100
+Weather=Storm,80
 #-------------------------------
 [077]
 # Mom's Lab
-Weather=Sun,10
+Weather=Sunny,10
 Bicycle=true
 MapPosition=0,6,6
 Outdoor=true

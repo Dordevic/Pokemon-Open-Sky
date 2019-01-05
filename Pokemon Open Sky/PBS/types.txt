@@ -13,8 +13,8 @@ Resistances=ROCK,BUG,DARK
 [2]
 Name=Flying
 InternalName=FLYING
-Weaknesses=ROCK,ELECTRIC,ICE
-Resistances=FIGHTING,BUG,GRASS,FERAL
+Weaknesses=ROCK,ELECTRIC,ICE,FERAL
+Resistances=FIGHTING,BUG,GRASS
 Immunities=GROUND
 
 [3]
@@ -46,8 +46,8 @@ Resistances=FIGHTING,GROUND,GRASS
 Name=Ghost
 InternalName=GHOST
 Weaknesses=GHOST,DARK
-Resistances=POISON,BUG
-Immunities=NORMAL,FIGHTING,FERAL
+Resistances=POISON,BUG,FERAL
+Immunities=NORMAL,FIGHTING
 
 [8]
 Name=Steel
@@ -65,15 +65,15 @@ IsPseudoType=true
 Name=Fire
 InternalName=FIRE
 IsSpecialType=true
-Weaknesses=GROUND,ROCK,WATER
-Resistances=BUG,STEEL,FIRE,GRASS,ICE,FAIRY,FERAL
+Weaknesses=WATER,GROUND,ROCK
+Resistances=FIRE,GRASS,ICE,BUG,STEEL,FAIRY,FERAL
 
 [11]
 Name=Water
 InternalName=WATER
 IsSpecialType=true
 Weaknesses=GRASS,ELECTRIC,FERAL
-Resistances=STEEL,FIRE,WATER,ICE
+Resistances=FIRE,WATER,ICE,STEEL
 
 [12]
 Name=Grass
@@ -93,7 +93,7 @@ Resistances=FLYING,STEEL,ELECTRIC
 Name=Psychic
 InternalName=PSYCHIC
 IsSpecialType=true
-Weaknesses=BUG,GHOST,DARK
+Weaknesses=BUG,GHOST,DARK,FERAL
 Resistances=FIGHTING,PSYCHIC
 
 [15]
@@ -109,6 +109,7 @@ InternalName=DRAGON
 IsSpecialType=true
 Weaknesses=ICE,DRAGON,FAIRY
 Resistances=FIRE,WATER,GRASS,ELECTRIC
+Immunities=FERAL
 
 [17]
 Name=Dark
@@ -135,6 +136,6 @@ Immunities=DRAGON
 [20]
 Name=Feral
 InternalName=FERAL
-Weaknesses=FIRE,BUG,ROCK,GHOST,DARK,STEEL
-Resistances=WATER,GRASS,PSYCHIC
-Immunities=DRAGON
+Weaknesses=FIRE,POISON,BUG,ROCK,GHOST,DARK,DRAGON
+Resistances=WATER,FIGHTING,PSYCHIC
+Immunities=FAIRY
